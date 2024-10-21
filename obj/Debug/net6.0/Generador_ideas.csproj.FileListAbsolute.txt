@@ -1,0 +1,8 @@
+C:\Users\Nocht\Repos\#Proyectos\Labo4-final-back\Generador_ideas\obj\Debug\net6.0\Generador_ideas.csproj.AssemblyReference.cache
+C:\Users\Nocht\Repos\#Proyectos\Labo4-final-back\Generador_ideas\obj\Debug\net6.0\Generador_ideas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nocht\Repos\#Proyectos\Labo4-final-back\Generador_ideas\obj\Debug\net6.0\Generador_ideas.AssemblyInfoInputs.cache
+C:\Users\Nocht\Repos\#Proyectos\Labo4-final-back\Generador_ideas\obj\Debug\net6.0\Generador_ideas.AssemblyInfo.cs
+C:\Users\Nocht\Repos\#Proyectos\Labo4-final-back\Generador_ideas\obj\Debug\net6.0\Generador_ideas.csproj.CoreCompileInputs.cache
+C:\Users\Nocht\Repos\#Proyectos\Labo4-final-back\Generador_ideas\obj\Debug\net6.0\Generador_ideas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Nocht\Repos\#Proyectos\Labo4-final-back\Generador_ideas\obj\Debug\net6.0\Generador_ideas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Nocht\Repos\#Proyectos\Labo4-final-back\Generador_ideas\obj\Debug\net6.0\Generador_ideas.sourcelink.json
